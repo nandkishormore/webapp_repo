@@ -6,5 +6,5 @@ files:
 hooks:
   BeforeInstall:
     - location: scritpts/dep.sh
-      timeout:300
+      timeout: 300
       runas: root
